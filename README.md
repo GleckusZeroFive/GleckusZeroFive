@@ -12,6 +12,20 @@ I build AI-powered products end-to-end: from model selection and prompt engineer
 - **Workflow Automation** — n8n, custom integrations, orchestrator patterns
 - **Backend** — FastAPI, PostgreSQL, Docker, Linux
 
+## Commercial Projects
+
+Projects delivered for clients via freelance platforms.
+
+**AI Consultant Chatbot for a Building Materials Store**
+Self-hosted LLM platform with a product knowledge base, automated cost calculations, and a custom JS widget with SSE streaming deployed on the client's website.
+
+**Stack:** Dify (self-hosted), Google Gemini, Docker, Nginx, JavaScript
+
+**Gamification & AI Coach for a Health-Tech Telegram Bot**
+Streak/milestone system with comeback detection, AI-powered personalized nutrition and fitness coaching with trial/paywall flow. Integrated into an existing production codebase via 17+ pull requests.
+
+**Stack:** Python, aiogram 3, PostgreSQL, Redis, Docker, Alembic
+
 ## Featured Projects
 
 ### [RAGozin-Bot](https://github.com/GleckusZeroFive/RAGozin-Bot)
