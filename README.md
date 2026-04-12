@@ -81,6 +81,6 @@ MCP          | FastMCP      | Pydantic     | SQLAlchemy
 
 - **HH.ru:** [resume (ML Engineer)](https://hh.ru/resume/9bc1ce37ff0fe443f90039ed1f4f66326c4e34)
 - **Kwork:** [gleckus19](https://kwork.ru/user/gleckus19)
-- **Telegram:** [@gleckus19](https://t.me/gleckus19)
+- **Telegram:** [@gleckus](https://t.me/gleckus)
 - **Email:** lpflash@mail.ru
 - **Location:** Krasnoyarsk, Russia
